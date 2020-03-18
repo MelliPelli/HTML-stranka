@@ -1,2 +1,3 @@
 # HTML-stranka
-Zde budeme vytvářet webovou stránku
+Zde budeme vytvářet webové stránky v HTML, PHP, CSS
+
