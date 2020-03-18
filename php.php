@@ -260,7 +260,7 @@ break;
             break;
         }
         echo "<br>";
-        echo "<br><big><big>maska:</big></big>";
+        echo "<br><big><big>Maska:</big></big>";
         echo "<br>";
         echo "<b>decimal:</b>";
         echo $maska1;
