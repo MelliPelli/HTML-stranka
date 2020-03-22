@@ -563,42 +563,42 @@ switch($prefix){
                 echo "<br>";
                 echo "$broadcast";
               
-                $host5;
+                $host4;
                 switch($prefix){
                     case 1:
                     case 24:
-                        $host5 = "126";
+                        $host4 = "126";
                         break;
                         case 25:
-                            $host5 = "62";
+                            $host4 = "62";
                         break;
                         case 26:
-                            $host5 = "30";
+                            $host4 = "30";
                         break;
                         case 27:
-                            $host5 = "14";
+                            $host4 = "14";
                         break;
                         case 28:
-                            $host5 = "6";
+                            $host4 = "6";
                         break;
                         case 29:
-                            $host5 = "2";
+                            $host4 = "2";
                         break;
                         case 30:
-                            $host5 = "nelze vytvořit";
+                            $host4 = "nelze vytvořit";
                         break;
                         case 31:
-                            $host5 = "nelze vytvořit";
+                            $host4 = "nelze vytvořit";
                         break;
                         case 32:
-                            $host5 = "nelze vytvořit";
+                            $host4 = "nelze vytvořit";
                         break;
                         }
 
                         echo "<br>";
                         echo "<b>host  </b>";
                         echo "<br>";
-                        echo "$host5";
+                        echo "$host4";
 
 
 
@@ -791,11 +791,6 @@ switch($prefix){
                         echo "<b>host  </b>";
                         echo "<br>";
                         echo "$host5";
-
-
-
-
-
 
         ?>
 
